@@ -118,6 +118,7 @@ let obj1 = {
   key1: 'value1',
   key2: 'value2'
 };
+let obj: object;
 p(obj1);
 let obj2 = obj1;
 obj2.key2 = 'changeValue';
