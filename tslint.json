@@ -17,7 +17,8 @@
     "array-type": false,
     "variable-name": false,
     "object-literal-sort-keys": false,
-    "no-angle-bracket-type-assertion": false
+    "no-angle-bracket-type-assertion": false,
+    "prefer-for-of": false
   },
   "rulesDirectory": []
 }
