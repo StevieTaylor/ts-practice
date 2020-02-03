@@ -2,4 +2,6 @@
 // import './chapter/variable-declaration'; // 变量声明
 // import './chapter/interface'; // 接口
 // import './chapter/function'; // 函数
-import './chapter/generics'; // 泛型
+// import './chapter/generics'; // 泛型
+// import './chapter/es6-class.js';
+import './chapter/enum'; // 枚举
