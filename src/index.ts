@@ -4,4 +4,5 @@
 // import './chapter/function'; // 函数
 // import './chapter/generics'; // 泛型
 // import './chapter/es6-class.js';
-import './chapter/enum'; // 枚举
+// import './chapter/enum'; // 枚举
+import './chapter/type-inference'; // 类型推断
