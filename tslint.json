@@ -18,7 +18,11 @@
     "variable-name": false,
     "object-literal-sort-keys": false,
     "no-angle-bracket-type-assertion": false,
-    "prefer-for-of": false
+    "prefer-for-of": false,
+    "max-classes-per-file": false,
+    "no-empty": false,
+    "no-empty-interface": false,
+    "no-shadowed-variable": false
   },
   "rulesDirectory": []
 }
