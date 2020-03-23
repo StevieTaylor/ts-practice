@@ -7,4 +7,5 @@
 // import './chapter/enum'; // 枚举
 // import './chapter/type-inference'; // 类型推断
 // import './chapter/type-compatibility'; // 类型兼容性
-import './chapter/advanced-type'; // 高级类型
+// import './chapter/advanced-type'; // 高级类型
+import './modules/es6-modules/index.js'; // ES6 模块
