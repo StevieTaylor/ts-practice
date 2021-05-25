@@ -33,7 +33,7 @@ for (var i = 0; i < 10; i++) {
 
 // 使用立即执行的函数表达式来捕获每次循环时 i 的值
 for (var j = 0; j < 10; j++) {
-  (function(j) {
+  (function (j) {
     // setTimeout(() => console.log(j), 100 * j);
   })(j);
 }
@@ -207,8 +207,8 @@ let Cat = {
 };
 p('猫:', Cat);
 // 后面的属性会覆盖前面的属性
-let Garfield = { food: '高级猫粮', ...Cat };
-p('加菲猫:', Garfield); // {food: "猫粮", type: "猫"}
+// let Garfield = { food: '高级猫粮', ...Cat };
+// p('加菲猫:', Garfield); // {food: "猫粮", type: "猫"}
 let Ragdoll = { ...Cat, food: '普通猫粮' };
 p('布偶猫:', Ragdoll); // {type: "猫", food: "普通猫粮"}
 
